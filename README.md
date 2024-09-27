@@ -1,5 +1,7 @@
 # 1000-plus-c-programs
-A collection of 1000+ C Programs to Learn from for CS and MS Students
+A collection of 1000+ C Programs to Learn from for CS and MS Students.
+
+All Code Examples can be downloaded in txt/pdf/doc/md formats.
 
 
 | Program Description | Description | Sample Input | Sample Output | Code |
